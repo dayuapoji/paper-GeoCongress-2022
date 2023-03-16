@@ -5,7 +5,7 @@ Repository for ASCE GeoCongress 2022 paper.
 Apoji, D., Fujita, Y., & Soga, K. Soil Classification and Feature Importance of EPBM Data Using Random Forests. In Geo-Congress 2022 (pp. 520-528).
 https://doi.org/10.1061/9780784484029.052
 
-This repository include:
+This repository includes:
 - code
 - output figures
 
